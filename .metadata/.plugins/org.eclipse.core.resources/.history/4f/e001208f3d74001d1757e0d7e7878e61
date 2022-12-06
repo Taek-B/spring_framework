@@ -1,0 +1,12 @@
+package demo.main;
+
+import demo.beans.HelloWorldEn;
+import demo.beans.HelloWorldKo;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		HelloWorldEn hello1 = new HelloWorldEn()
+	}
+
+}

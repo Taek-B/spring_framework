@@ -1,0 +1,9 @@
+package com.demo.main;
+
+public class MainClass {
+	public static void main(String[] args) {
+		// beans.xml 파일을 로딩한다.
+		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/demo/config/beans.xml");
+
+	}
+}

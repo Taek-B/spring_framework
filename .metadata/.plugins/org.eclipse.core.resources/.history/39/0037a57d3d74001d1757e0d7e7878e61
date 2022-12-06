@@ -1,0 +1,11 @@
+package demo.main;
+
+import sun.jvm.hotspot.HelloWorld;
+
+public class MainClass {
+	
+	public static void main(String[] args) {
+		HelloWorldEn hello1 = new HelloWorldEn()
+	}
+
+}

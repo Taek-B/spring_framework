@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="demo.beans.HelloWorldEn"/>
+    <fullyQualifiedTypeName name="demo.beans.HelloWorld"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.HelloWorld"/>
+    <fullyQualifiedTypeName name="com.demo.beans.HelloWorld"/>
+    <fullyQualifiedTypeName name="com.demo.beans.TestBean"/>
+</qualifiedTypeNameHistroy>

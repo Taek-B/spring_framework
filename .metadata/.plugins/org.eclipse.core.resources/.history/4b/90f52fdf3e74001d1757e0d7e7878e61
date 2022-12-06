@@ -1,0 +1,5 @@
+package demo.beans;
+
+public interface HelloWorld {
+
+}

@@ -1,0 +1,17 @@
+package com.demo.main;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import sun.jvm.hotspot.HelloWorld;
+
+public class MainClass {
+	public static void main(String[] args) {
+		// beans.xml 파일을 로딩한다.
+		ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/demo/config/beans.xml");
+		
+		
+		// bean객체 사용
+		HelloWorld hello1 = ctx.getBean("hello"); 
+		ctx.close();
+	}
+}
