@@ -30,8 +30,7 @@ public class AdvisorClass {
 	public void afterMethod() {
 		System.out.println("afterMethod 호출");
 	}
-	
-	
+		
 	
 	@AfterReturning("execution(* method1())")
 	public void afterReturningMethod() {
