@@ -6,4 +6,16 @@
     <fullyQualifiedTypeName name="sun.jvm.hotspot.HelloWorld"/>
     <fullyQualifiedTypeName name="com.demo.beans.HelloWorld"/>
     <fullyQualifiedTypeName name="com.demo.beans.TestBean"/>
+    <fullyQualifiedTypeName name="com.demo.beans.DataBean1"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.demo.config.BeanConfigClass"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.demo.beans.TestBean1"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="com.demo.beans.TestBean4"/>
+    <fullyQualifiedTypeName name="com.demo.beans.TestBean3"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Lazy"/>
+    <fullyQualifiedTypeName name="com.demo.beans.TestBean2"/>
 </qualifiedTypeNameHistroy>

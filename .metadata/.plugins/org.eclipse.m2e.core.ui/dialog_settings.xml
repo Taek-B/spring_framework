@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\JAVA\SpringFrameWork\BeanPostProcessor"/>
+			<item value="C:\JAVA\SpringFrameWork\IOC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -13,6 +15,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -48,6 +51,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JavaBeanConfiguration"/>
+			<item value="AutoWire"/>
+			<item value="BeanPostProcessor"/>
+			<item value="BeanCreate"/>
 			<item value="IOC"/>
 			<item value="SpringBasic"/>
 		</list>
