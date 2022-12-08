@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\JAVA\SpringFrameWork\springJDBC\src\main\java\com\demo\config\BeanConfigClass.java"/>
+			<item value="C:\JAVA\SpringFrameWork\Component"/>
+			<item value="C:\JAVA\SpringFrameWork\JSR250"/>
+			<item value="C:\JAVA\SpringFrameWork\JSR250\src\main\java\com\demo\beans\TestBean6.java"/>
 			<item value="C:\JAVA\SpringFrameWork\BeanPostProcessor"/>
 			<item value="C:\JAVA\SpringFrameWork\IOC"/>
 		</list>
@@ -51,6 +55,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatis"/>
+			<item value="springJDBC"/>
+			<item value="AOPJava"/>
+			<item value="APOXML"/>
+			<item value="Component"/>
+			<item value="JSR250"/>
+			<item value="AnnotationBean"/>
 			<item value="JavaBeanConfiguration"/>
 			<item value="AutoWire"/>
 			<item value="BeanPostProcessor"/>
